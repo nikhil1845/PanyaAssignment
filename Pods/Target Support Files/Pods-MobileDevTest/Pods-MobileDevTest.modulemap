@@ -1,0 +1,6 @@
+framework module Pods_MobileDevTest {
+  umbrella header "Pods-MobileDevTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
